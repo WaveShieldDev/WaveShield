@@ -1,6 +1,6 @@
 ---
 name: False Ban Report
-about: Report an issue related to a false ban
+about: Report an issue related to a false ban from WaveShield
 title: '[FALSEBAN] '
 labels: falseban
 assignees: ''
