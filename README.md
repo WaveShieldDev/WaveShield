@@ -10,7 +10,7 @@ Hey there! We're excited that you want to help us improve WaveShield. This is th
 
 ### Reporting Bugs
 
-Did you stumble upon something in [Your Repository Name] that just doesn't seem right? We'd appreciate your help in identifying and resolving these pesky bugs. Here's how:
+Did you stumble upon something in WaveShield that just doesn't seem right? We'd appreciate your help in identifying and resolving these pesky bugs. Here's how:
 
 1. **Check for Similar Issues**: Before you jump in, take a quick look through the [Issues](https://github.com/WaveShieldDev/WaveShield/issues) section to see if someone else has already reported the same bug.
 
